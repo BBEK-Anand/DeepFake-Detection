@@ -1,0 +1,182 @@
+{
+    "Meso4_01_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.92573,
+            "train_loss": 0.2007735067856312,
+            "val_accuracy": 0.9331,
+            "val_loss": 0.16527503866851329
+        },
+        "best": {
+            "epoch": 10,
+            "train_accuracy": 0.92573,
+            "train_loss": 0.2007735067856312,
+            "val_accuracy": 0.9331,
+            "val_loss": 0.16527503866851329
+        }
+    },
+    "Meso4_02_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.83173,
+            "train_loss": 0.33842480462789537,
+            "val_accuracy": 0.92775,
+            "val_loss": 0.1757337041825056
+        },
+        "best": {
+            "epoch": 10,
+            "train_accuracy": 0.83173,
+            "train_loss": 0.33842480462789537,
+            "val_accuracy": 0.92775,
+            "val_loss": 0.1757337041825056
+        }
+    },
+    "Meso4_03_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.84777,
+            "train_loss": 0.3107852495265007,
+            "val_accuracy": 0.8641,
+            "val_loss": 0.3053820229768753
+        },
+        "best": {
+            "epoch": 8,
+            "train_accuracy": 0.83889,
+            "train_loss": 0.32982930891990664,
+            "val_accuracy": 0.88985,
+            "val_loss": 0.2596161581635475
+        }
+    },
+    "Meso4_04_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.95558,
+            "train_loss": 0.12283987226784229,
+            "val_accuracy": 0.9408,
+            "val_loss": 0.17648073692284524
+        },
+        "best": {
+            "epoch": 9,
+            "train_accuracy": 0.95215,
+            "train_loss": 0.1311922832068801,
+            "val_accuracy": 0.93675,
+            "val_loss": 0.17039933811500668
+        }
+    },
+    "Meso4_05_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.49842,
+            "train_loss": 0.6931827707672119,
+            "val_accuracy": 0.5,
+            "val_loss": 0.6931539177894592
+        },
+        "best": {
+            "epoch": 8,
+            "train_accuracy": 0.49922,
+            "train_loss": 0.6931747893333435,
+            "val_accuracy": 0.5,
+            "val_loss": 0.6931475400924683
+        }
+    },
+    "Meso4_06_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.92891,
+            "train_loss": 0.18557983360916377,
+            "val_accuracy": 0.9256,
+            "val_loss": 0.19226741352602839
+        },
+        "best": {
+            "epoch": 10,
+            "train_accuracy": 0.92891,
+            "train_loss": 0.18557983360916377,
+            "val_accuracy": 0.9256,
+            "val_loss": 0.19226741352602839
+        }
+    },
+    "Meso4_07_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.92121,
+            "train_loss": 0.2066744108325243,
+            "val_accuracy": 0.913,
+            "val_loss": 0.22849511889070273
+        },
+        "best": {
+            "epoch": 7,
+            "train_accuracy": 0.90534,
+            "train_loss": 0.24290557752251626,
+            "val_accuracy": 0.91175,
+            "val_loss": 0.22138478740751744
+        }
+    },
+    "Meso4_08_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.49658,
+            "train_loss": 0.6931821819496155,
+            "val_accuracy": 0.5,
+            "val_loss": 0.6931474506378174
+        },
+        "best": {
+            "epoch": 9,
+            "train_accuracy": 0.49864,
+            "train_loss": 0.6931778182029724,
+            "val_accuracy": 0.5,
+            "val_loss": 0.6931472122192383
+        }
+    },
+    "Meso4_09_1": {
+        "config": {
+            "criterion": "BCEWithLogitsLoss",
+            "optimizer": "Adam"
+        },
+        "last": {
+            "epoch": 10,
+            "train_accuracy": 0.73625,
+            "train_loss": 0.3831500903081894,
+            "val_accuracy": 0.96175,
+            "val_loss": 0.12297247687578201
+        },
+        "best": {
+            "epoch": 10,
+            "train_accuracy": 0.73625,
+            "train_loss": 0.3831500903081894,
+            "val_accuracy": 0.96175,
+            "val_loss": 0.12297247687578201
+        }
+    }
+}
