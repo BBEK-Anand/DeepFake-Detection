@@ -1,0 +1,25 @@
+{
+    "model_loc": "Libs.models.testCNN",
+    "DataSet_loc": "Libs.datasets.DS01",
+    "accuracy_loc": "Libs.accuracies.BinAcc",
+    "loss_loc": "Libs.losses.BCE",
+    "optimizer_loc": "Libs.optimizers.OptAdam",
+    "piLn_name": "exp01",
+    "last": {
+        "epoch": 2,
+        "train_accuracy": 0.65299,
+        "train_loss": 0.6014511368083953
+    },
+    "best": {
+        "epoch": 2,
+        "val_accuracy": 0.7766786555020357,
+        "val_loss": 0.5483206537701815
+    },
+    "valid_data_src": "../DataSet/real_vs_fake/real_vs_fake/valid/",
+    "train_data_src": "../DataSet/real_vs_fake/real_vs_fake/train/",
+    "valid_batch_size": 24,
+    "train_batch_size": 32,
+    "weights_path": "internal/Weights/exp01.pth",
+    "config_path": "internal/Configs/exp01.json",
+    "history_path": "internal/Histories/exp01.csv"
+}

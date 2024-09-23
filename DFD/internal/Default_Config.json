@@ -1,0 +1,9 @@
+{
+    "accuracy_loc": "BinAcc",
+    "loss_loc": "BCE",
+    "optimizer_loc": "OptAdam",
+    "train_data_src": "../DataSet/real_vs_fake/real_vs_fake/train/",
+    "valid_data_src": "../DataSet/real_vs_fake/real_vs_fake/valid/",
+    "train_batch_size": 32,
+    "valid_batch_size": 24
+}

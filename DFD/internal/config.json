@@ -1,0 +1,6 @@
+{
+    "exp01": {
+        "last_epoch": 2,
+        "best_val_accuracy": 0.7766786555020357
+    }
+}
